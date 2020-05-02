@@ -1,0 +1,24 @@
+C:\Users\Rachael\AppData\Local\Temporary Projects\角谷猜想\bin\Debug\角谷猜想.exe
+C:\Users\Rachael\AppData\Local\Temporary Projects\角谷猜想\bin\Debug\角谷猜想.pdb
+C:\Users\Rachael\AppData\Local\Temporary Projects\角谷猜想\bin\Debug\角谷猜想.xml
+C:\Users\Rachael\AppData\Local\Temporary Projects\角谷猜想\obj\x86\Debug\角谷猜想.Form1.resources
+C:\Users\Rachael\AppData\Local\Temporary Projects\角谷猜想\obj\x86\Debug\角谷猜想.Resources.resources
+C:\Users\Rachael\AppData\Local\Temporary Projects\角谷猜想\obj\x86\Debug\角谷猜想.vbproj.GenerateResource.Cache
+C:\Users\Rachael\AppData\Local\Temporary Projects\角谷猜想\obj\x86\Debug\角谷猜想.exe
+C:\Users\Rachael\AppData\Local\Temporary Projects\角谷猜想\obj\x86\Debug\角谷猜想.xml
+C:\Users\Rachael\AppData\Local\Temporary Projects\角谷猜想\obj\x86\Debug\角谷猜想.pdb
+D:\VB作业\角谷猜想\角谷猜想\obj\x86\Debug\角谷猜想.exe
+D:\VB作业\角谷猜想\角谷猜想\obj\x86\Debug\角谷猜想.xml
+D:\VB作业\角谷猜想\角谷猜想\obj\x86\Debug\角谷猜想.pdb
+D:\VB作业\角谷猜想\角谷猜想\bin\Debug\角谷猜想.exe
+D:\VB作业\角谷猜想\角谷猜想\bin\Debug\角谷猜想.pdb
+D:\VB作业\角谷猜想\角谷猜想\bin\Debug\角谷猜想.xml
+D:\VB作业\角谷猜想\角谷猜想\obj\x86\Debug\角谷猜想.Form1.resources
+D:\VB作业\角谷猜想\角谷猜想\obj\x86\Debug\角谷猜想.Resources.resources
+D:\VB作业\角谷猜想\角谷猜想\obj\x86\Debug\角谷猜想.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\第五章上机作业\角谷猜想\obj\x86\Debug\角谷猜想.exe
+C:\Users\Lenovo\Desktop\第五章上机作业\角谷猜想\obj\x86\Debug\角谷猜想.xml
+C:\Users\Lenovo\Desktop\第五章上机作业\角谷猜想\obj\x86\Debug\角谷猜想.pdb
+C:\Users\Lenovo\Desktop\第五章上机作业\角谷猜想\角谷猜想\obj\x86\Debug\角谷猜想.exe
+C:\Users\Lenovo\Desktop\第五章上机作业\角谷猜想\角谷猜想\obj\x86\Debug\角谷猜想.xml
+C:\Users\Lenovo\Desktop\第五章上机作业\角谷猜想\角谷猜想\obj\x86\Debug\角谷猜想.pdb

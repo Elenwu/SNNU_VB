@@ -1,0 +1,27 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\人名币大小写转换\bin\Debug\人名币大小写转换.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\人名币大小写转换\bin\Debug\人名币大小写转换.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\人名币大小写转换\bin\Debug\人名币大小写转换.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\人名币大小写转换\obj\x86\Debug\人名币大小写转换.Form1.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\人名币大小写转换\obj\x86\Debug\人名币大小写转换.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\人名币大小写转换\obj\x86\Debug\人名币大小写转换.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\人名币大小写转换\obj\x86\Debug\人名币大小写转换.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\人名币大小写转换\obj\x86\Debug\人名币大小写转换.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\人名币大小写转换\obj\x86\Debug\人名币大小写转换.pdb
+D:\VB作业\人名币大小写转换\人名币大小写转换\obj\x86\Debug\人名币大小写转换.exe
+D:\VB作业\人名币大小写转换\人名币大小写转换\obj\x86\Debug\人名币大小写转换.xml
+D:\VB作业\人名币大小写转换\人名币大小写转换\obj\x86\Debug\人名币大小写转换.pdb
+D:\VB作业\人名币大小写转换\人名币大小写转换\bin\Debug\人名币大小写转换.exe
+D:\VB作业\人名币大小写转换\人名币大小写转换\bin\Debug\人名币大小写转换.pdb
+D:\VB作业\人名币大小写转换\人名币大小写转换\bin\Debug\人名币大小写转换.xml
+D:\VB作业\人名币大小写转换\人名币大小写转换\obj\x86\Debug\人名币大小写转换.Form1.resources
+D:\VB作业\人名币大小写转换\人名币大小写转换\obj\x86\Debug\人名币大小写转换.Resources.resources
+D:\VB作业\人名币大小写转换\人名币大小写转换\obj\x86\Debug\人名币大小写转换.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\第五章上机作业\人名币大小写转换\人名币大小写转换\obj\x86\Debug\人名币大小写转换.exe
+C:\Users\Lenovo\Desktop\第五章上机作业\人名币大小写转换\人名币大小写转换\obj\x86\Debug\人名币大小写转换.xml
+C:\Users\Lenovo\Desktop\第五章上机作业\人名币大小写转换\人名币大小写转换\obj\x86\Debug\人名币大小写转换.pdb
+C:\Users\Lenovo\Desktop\第五章上机作业\人名币大小写转换\人名币大小写转换\bin\Debug\人名币大小写转换.exe
+C:\Users\Lenovo\Desktop\第五章上机作业\人名币大小写转换\人名币大小写转换\bin\Debug\人名币大小写转换.pdb
+C:\Users\Lenovo\Desktop\第五章上机作业\人名币大小写转换\人名币大小写转换\bin\Debug\人名币大小写转换.xml
+C:\Users\Lenovo\Desktop\第五章上机作业\人名币大小写转换\人名币大小写转换\obj\x86\Debug\人名币大小写转换.Form1.resources
+C:\Users\Lenovo\Desktop\第五章上机作业\人名币大小写转换\人名币大小写转换\obj\x86\Debug\人名币大小写转换.Resources.resources
+C:\Users\Lenovo\Desktop\第五章上机作业\人名币大小写转换\人名币大小写转换\obj\x86\Debug\人名币大小写转换.vbproj.GenerateResource.Cache

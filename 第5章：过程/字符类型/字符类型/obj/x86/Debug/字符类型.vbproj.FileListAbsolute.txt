@@ -1,0 +1,12 @@
+C:\Users\Rachael\AppData\Local\Temporary Projects\字符类型\bin\Debug\字符类型.exe
+C:\Users\Rachael\AppData\Local\Temporary Projects\字符类型\bin\Debug\字符类型.pdb
+C:\Users\Rachael\AppData\Local\Temporary Projects\字符类型\bin\Debug\字符类型.xml
+C:\Users\Rachael\AppData\Local\Temporary Projects\字符类型\obj\x86\Debug\字符类型.Form1.resources
+C:\Users\Rachael\AppData\Local\Temporary Projects\字符类型\obj\x86\Debug\字符类型.Resources.resources
+C:\Users\Rachael\AppData\Local\Temporary Projects\字符类型\obj\x86\Debug\字符类型.vbproj.GenerateResource.Cache
+C:\Users\Rachael\AppData\Local\Temporary Projects\字符类型\obj\x86\Debug\字符类型.exe
+C:\Users\Rachael\AppData\Local\Temporary Projects\字符类型\obj\x86\Debug\字符类型.xml
+C:\Users\Rachael\AppData\Local\Temporary Projects\字符类型\obj\x86\Debug\字符类型.pdb
+D:\VB作业\字符类型\字符类型\obj\x86\Debug\字符类型.exe
+D:\VB作业\字符类型\字符类型\obj\x86\Debug\字符类型.xml
+D:\VB作业\字符类型\字符类型\obj\x86\Debug\字符类型.pdb
