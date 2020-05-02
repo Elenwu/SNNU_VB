@@ -1,0 +1,9 @@
+D:\VB作业\统计字符串字符出现次数\统计字符串字符出现次数\bin\Debug\统计字符串字符出现次数.exe
+D:\VB作业\统计字符串字符出现次数\统计字符串字符出现次数\bin\Debug\统计字符串字符出现次数.pdb
+D:\VB作业\统计字符串字符出现次数\统计字符串字符出现次数\bin\Debug\统计字符串字符出现次数.xml
+D:\VB作业\统计字符串字符出现次数\统计字符串字符出现次数\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\VB作业\统计字符串字符出现次数\统计字符串字符出现次数\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\VB作业\统计字符串字符出现次数\统计字符串字符出现次数\obj\x86\Debug\统计字符串字符出现次数.vbproj.GenerateResource.Cache
+D:\VB作业\统计字符串字符出现次数\统计字符串字符出现次数\obj\x86\Debug\统计字符串字符出现次数.exe
+D:\VB作业\统计字符串字符出现次数\统计字符串字符出现次数\obj\x86\Debug\统计字符串字符出现次数.xml
+D:\VB作业\统计字符串字符出现次数\统计字符串字符出现次数\obj\x86\Debug\统计字符串字符出现次数.pdb
