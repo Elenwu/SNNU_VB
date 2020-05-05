@@ -1,0 +1,9 @@
+D:\VB作业\素数筛选法\素数筛选法\bin\Debug\素数筛选法.exe
+D:\VB作业\素数筛选法\素数筛选法\bin\Debug\素数筛选法.pdb
+D:\VB作业\素数筛选法\素数筛选法\bin\Debug\素数筛选法.xml
+D:\VB作业\素数筛选法\素数筛选法\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\VB作业\素数筛选法\素数筛选法\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\VB作业\素数筛选法\素数筛选法\obj\x86\Debug\素数筛选法.vbproj.GenerateResource.Cache
+D:\VB作业\素数筛选法\素数筛选法\obj\x86\Debug\素数筛选法.exe
+D:\VB作业\素数筛选法\素数筛选法\obj\x86\Debug\素数筛选法.xml
+D:\VB作业\素数筛选法\素数筛选法\obj\x86\Debug\素数筛选法.pdb

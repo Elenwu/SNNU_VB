@@ -1,0 +1,9 @@
+D:\VB作业\MaxDivisorFunction\MaxDivisorFunction\bin\Debug\MaxDivisorFunction.exe
+D:\VB作业\MaxDivisorFunction\MaxDivisorFunction\bin\Debug\MaxDivisorFunction.pdb
+D:\VB作业\MaxDivisorFunction\MaxDivisorFunction\bin\Debug\MaxDivisorFunction.xml
+D:\VB作业\MaxDivisorFunction\MaxDivisorFunction\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\VB作业\MaxDivisorFunction\MaxDivisorFunction\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\VB作业\MaxDivisorFunction\MaxDivisorFunction\obj\x86\Debug\MaxDivisorFunction.vbproj.GenerateResource.Cache
+D:\VB作业\MaxDivisorFunction\MaxDivisorFunction\obj\x86\Debug\MaxDivisorFunction.exe
+D:\VB作业\MaxDivisorFunction\MaxDivisorFunction\obj\x86\Debug\MaxDivisorFunction.xml
+D:\VB作业\MaxDivisorFunction\MaxDivisorFunction\obj\x86\Debug\MaxDivisorFunction.pdb

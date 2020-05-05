@@ -1,0 +1,9 @@
+D:\VB作业\vb作业\递归法求阶乘\RecursiveFunction\RecursiveFunction\bin\Debug\RecursiveFunction.exe
+D:\VB作业\vb作业\递归法求阶乘\RecursiveFunction\RecursiveFunction\bin\Debug\RecursiveFunction.pdb
+D:\VB作业\vb作业\递归法求阶乘\RecursiveFunction\RecursiveFunction\bin\Debug\RecursiveFunction.xml
+D:\VB作业\vb作业\递归法求阶乘\RecursiveFunction\RecursiveFunction\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\VB作业\vb作业\递归法求阶乘\RecursiveFunction\RecursiveFunction\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\VB作业\vb作业\递归法求阶乘\RecursiveFunction\RecursiveFunction\obj\x86\Debug\RecursiveFunction.vbproj.GenerateResource.Cache
+D:\VB作业\vb作业\递归法求阶乘\RecursiveFunction\RecursiveFunction\obj\x86\Debug\RecursiveFunction.exe
+D:\VB作业\vb作业\递归法求阶乘\RecursiveFunction\RecursiveFunction\obj\x86\Debug\RecursiveFunction.xml
+D:\VB作业\vb作业\递归法求阶乘\RecursiveFunction\RecursiveFunction\obj\x86\Debug\RecursiveFunction.pdb

@@ -1,0 +1,24 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\SphereCalulate\bin\Debug\SphereCalulate.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\SphereCalulate\bin\Debug\SphereCalulate.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\SphereCalulate\bin\Debug\SphereCalulate.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\SphereCalulate\obj\x86\Debug\SphereCalulate.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\SphereCalulate\obj\x86\Debug\SphereCalulate.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\SphereCalulate\obj\x86\Debug\SphereCalulate.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\SphereCalulate\obj\x86\Debug\SphereCalulate.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\SphereCalulate\obj\x86\Debug\SphereCalulate.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\SphereCalulate\obj\x86\Debug\SphereCalulate.SphereCalulate.resources
+D:\VB作业\SphereCalulate\SphereCalulate\obj\x86\Debug\SphereCalulate.exe
+D:\VB作业\SphereCalulate\SphereCalulate\obj\x86\Debug\SphereCalulate.xml
+D:\VB作业\SphereCalulate\SphereCalulate\obj\x86\Debug\SphereCalulate.pdb
+D:\gitee\SNNU_VB\第3章：Visual Basic语言基础\SphereCalulate\SphereCalulate\obj\x86\Debug\SphereCalulate.exe
+D:\gitee\SNNU_VB\第3章：Visual Basic语言基础\SphereCalulate\SphereCalulate\obj\x86\Debug\SphereCalulate.xml
+D:\gitee\SNNU_VB\第3章：Visual Basic语言基础\SphereCalulate\SphereCalulate\obj\x86\Debug\SphereCalulate.pdb
+D:\gitee\SNNU_VB\第3章：Visual Basic语言基础\SphereCalulate\SphereCalulate\bin\Debug\SphereCalulate.exe
+D:\gitee\SNNU_VB\第3章：Visual Basic语言基础\SphereCalulate\SphereCalulate\bin\Debug\SphereCalulate.pdb
+D:\gitee\SNNU_VB\第3章：Visual Basic语言基础\SphereCalulate\SphereCalulate\bin\Debug\SphereCalulate.xml
+D:\gitee\SNNU_VB\第3章：Visual Basic语言基础\SphereCalulate\SphereCalulate\obj\x86\Debug\SphereCalulate.SphereCalulate.resources
+D:\gitee\SNNU_VB\第3章：Visual Basic语言基础\SphereCalulate\SphereCalulate\obj\x86\Debug\SphereCalulate.Resources.resources
+D:\gitee\SNNU_VB\第3章：Visual Basic语言基础\SphereCalulate\SphereCalulate\obj\x86\Debug\SphereCalulate.vbproj.GenerateResource.Cache
+D:\gitee\SNNU_VB\第3章：Visual Basic语言基础\求球体表面积及体积\SphereCalulate\obj\x86\Debug\SphereCalulate.exe
+D:\gitee\SNNU_VB\第3章：Visual Basic语言基础\求球体表面积及体积\SphereCalulate\obj\x86\Debug\SphereCalulate.xml
+D:\gitee\SNNU_VB\第3章：Visual Basic语言基础\求球体表面积及体积\SphereCalulate\obj\x86\Debug\SphereCalulate.pdb

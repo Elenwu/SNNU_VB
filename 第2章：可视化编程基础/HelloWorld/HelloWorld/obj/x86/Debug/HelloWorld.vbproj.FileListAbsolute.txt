@@ -1,0 +1,21 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWorld.HelloWorld.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWorld.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWorld.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWorld.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+D:\VB作业\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+D:\VB作业\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.xml
+D:\VB作业\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+D:\gitee\SNNU_VB\第2章：可视化编程基础\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+D:\gitee\SNNU_VB\第2章：可视化编程基础\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.xml
+D:\gitee\SNNU_VB\第2章：可视化编程基础\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+D:\gitee\SNNU_VB\第2章：可视化编程基础\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\gitee\SNNU_VB\第2章：可视化编程基础\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\gitee\SNNU_VB\第2章：可视化编程基础\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+D:\gitee\SNNU_VB\第2章：可视化编程基础\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.HelloWorld.resources
+D:\gitee\SNNU_VB\第2章：可视化编程基础\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Resources.resources
+D:\gitee\SNNU_VB\第2章：可视化编程基础\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.vbproj.GenerateResource.Cache

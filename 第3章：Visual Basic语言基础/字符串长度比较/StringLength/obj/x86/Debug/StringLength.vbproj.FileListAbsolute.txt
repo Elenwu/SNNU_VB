@@ -1,0 +1,18 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\StringLength\obj\x86\Debug\StringLength.Form1.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\StringLength\obj\x86\Debug\StringLength.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\StringLength\obj\x86\Debug\StringLength.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\StringLength\bin\Debug\StringLength.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\StringLength\bin\Debug\StringLength.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\StringLength\bin\Debug\StringLength.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\StringLength\obj\x86\Debug\StringLength.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\StringLength\obj\x86\Debug\StringLength.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\StringLength\obj\x86\Debug\StringLength.pdb
+D:\VB作业\StringLength\StringLength\obj\x86\Debug\StringLength.exe
+D:\VB作业\StringLength\StringLength\obj\x86\Debug\StringLength.xml
+D:\VB作业\StringLength\StringLength\obj\x86\Debug\StringLength.pdb
+D:\VB作业\StringLength\StringLength\bin\Debug\StringLength.exe
+D:\VB作业\StringLength\StringLength\bin\Debug\StringLength.pdb
+D:\VB作业\StringLength\StringLength\bin\Debug\StringLength.xml
+D:\VB作业\StringLength\StringLength\obj\x86\Debug\StringLength.Form1.resources
+D:\VB作业\StringLength\StringLength\obj\x86\Debug\StringLength.Resources.resources
+D:\VB作业\StringLength\StringLength\obj\x86\Debug\StringLength.vbproj.GenerateResource.Cache

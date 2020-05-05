@@ -1,0 +1,27 @@
+C:\Users\Rachael\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Rachael\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Rachael\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Rachael\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Rachael\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.student.resources
+C:\Users\Rachael\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\MyInfoText.vbproj.GenerateResource.Cache
+C:\Users\Rachael\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Rachael\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Rachael\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\VB作业\MyInfoText\MyInfoText\bin\Debug\MyInfoText.exe
+D:\VB作业\MyInfoText\MyInfoText\bin\Debug\MyInfoText.pdb
+D:\VB作业\MyInfoText\MyInfoText\bin\Debug\MyInfoText.xml
+D:\VB作业\MyInfoText\MyInfoText\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\VB作业\MyInfoText\MyInfoText\obj\x86\Debug\WindowsApplication1.student.resources
+D:\VB作业\MyInfoText\MyInfoText\obj\x86\Debug\MyInfoText.vbproj.GenerateResource.Cache
+D:\VB作业\MyInfoText\MyInfoText\obj\x86\Debug\MyInfoText.exe
+D:\VB作业\MyInfoText\MyInfoText\obj\x86\Debug\MyInfoText.xml
+D:\VB作业\MyInfoText\MyInfoText\obj\x86\Debug\MyInfoText.pdb
+D:\gitee\SNNU_VB\第2章：可视化编程基础\个人信息展示\MyInfoText\obj\x86\Debug\MyInfoText.exe
+D:\gitee\SNNU_VB\第2章：可视化编程基础\个人信息展示\MyInfoText\obj\x86\Debug\MyInfoText.xml
+D:\gitee\SNNU_VB\第2章：可视化编程基础\个人信息展示\MyInfoText\obj\x86\Debug\MyInfoText.pdb
+D:\gitee\SNNU_VB\第2章：可视化编程基础\个人信息展示\MyInfoText\bin\Debug\MyInfoText.exe
+D:\gitee\SNNU_VB\第2章：可视化编程基础\个人信息展示\MyInfoText\bin\Debug\MyInfoText.pdb
+D:\gitee\SNNU_VB\第2章：可视化编程基础\个人信息展示\MyInfoText\bin\Debug\MyInfoText.xml
+D:\gitee\SNNU_VB\第2章：可视化编程基础\个人信息展示\MyInfoText\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\gitee\SNNU_VB\第2章：可视化编程基础\个人信息展示\MyInfoText\obj\x86\Debug\WindowsApplication1.student.resources
+D:\gitee\SNNU_VB\第2章：可视化编程基础\个人信息展示\MyInfoText\obj\x86\Debug\MyInfoText.vbproj.GenerateResource.Cache
