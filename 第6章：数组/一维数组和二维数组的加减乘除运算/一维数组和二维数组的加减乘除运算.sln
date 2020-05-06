@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "一维数组和二维数组的加减乘除运算", "一维数组和二维数组的加减乘除运算\一维数组和二维数组的加减乘除运算.vbproj", "{C2303076-4C89-4352-A377-79098E47D281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2303076-4C89-4352-A377-79098E47D281}.Debug|x86.ActiveCfg = Debug|x86
+		{C2303076-4C89-4352-A377-79098E47D281}.Debug|x86.Build.0 = Debug|x86
+		{C2303076-4C89-4352-A377-79098E47D281}.Release|x86.ActiveCfg = Release|x86
+		{C2303076-4C89-4352-A377-79098E47D281}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
